@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <img
+    alt=""
+    src=""
+    style={
+      Object {
+        "width": "20px",
+      }
+    }
+  />
+  <div>
+    Hello 
+    John
+  </div>
+  <button
+    onClick={[Function]}
+  >
+    toggle: 
+    ON
+  </button>
+</div>
+`;
